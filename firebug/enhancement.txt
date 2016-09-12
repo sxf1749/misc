@@ -1,0 +1,3 @@
+comment.html.tmpl add img embedded
+uploadTF.cgi img upload
+Template.pm add img show
