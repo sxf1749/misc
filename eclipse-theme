@@ -1,0 +1,7 @@
+#org-eclipse-ui-navigator-ProjectExplorer Tree {
+	background-color: #FFFFF4;
+}
+
+#org-eclipse-ui-views-ContentOutline Tree{
+	background-color: #FFFFF8;
+}
