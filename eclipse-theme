@@ -5,3 +5,17 @@
 #org-eclipse-ui-views-ContentOutline Tree{
 	background-color: #FFFFF8;
 }
+
+CTabItem:selected {
+	color: #0000FF;
+}
+
+.MPartStack.active > CTabItem:selected {
+	color: #FF0000;
+}
+
+#org-eclipse-ui-navigator-ProjectExplorer Tree {
+	font-family:Arial;
+	background-color: #FFFFF4;
+	font-size:10;
+}
